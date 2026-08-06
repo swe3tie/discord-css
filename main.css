@@ -309,6 +309,7 @@
 		[aria-label^="Originally known as"],
 		[aria-label^="Collected the Orb Profile Badge"],
 		[aria-label^="HypeSquad"],
+		[aria-label^="Gifting Patron"],
 		[aria-label^="Level"][aria-label$="Reached"] {
 			display: none;
 		}
